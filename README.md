@@ -1,5 +1,5 @@
 # prem_corners
-Analyze Premier League Corners Odds and Provide Stakes
+### Analyze Premier League Corners Odds and Provide Stakes
 
 Manually input odds to the model as such:
 
@@ -26,3 +26,8 @@ Brighton vs Tottenham: Stake £72.48 on under 10.5 corners at 2.0
 ```
 
 Various parameters, metrics, and models were tested before converging on the averaged stats from the last 5 games, fed into a friedman-mse Random Forest Regressor, which when backtested provided an average yearly return of 15% based on odds data from the last 7 Premier League seasons.
+
+Future features include:
+- Automatic odds retrieval
+- Goals Over/Under for various lines
+- Additional parameters
