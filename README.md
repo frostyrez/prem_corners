@@ -31,3 +31,4 @@ Future features include:
 - Automatic odds retrieval
 - Goals Over/Under for various lines
 - Additional parameters
+- Neural Network version
