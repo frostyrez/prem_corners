@@ -30,5 +30,5 @@ Various parameters, metrics, and models were tested before converging on the ave
 Future features include:
 - Automatic odds retrieval
 - Goals Over/Under for various lines
-- Additional parameters
+- Additional features
 - Comparison with a Deep Neural Network
